@@ -2,7 +2,7 @@
 
 [--> Navigate to Periodic Table](https://registration-form-64352.web.app/)
 
-## Periodic-Table
+### FILE DISCRIPTION:-
 
 * index.html : Periodic Table
 
